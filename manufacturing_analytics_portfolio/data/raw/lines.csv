@@ -1,5 +1,0 @@
-line_id,line_name,commission_year,automation_date,cycle_multiplier,base_power_kw
-L01,Assembly North,2016,2025-04-01,1.04,37
-L02,Assembly South,2018,2025-07-01,1.0,34
-L03,Assembly East,2015,,1.08,40
-L04,Assembly West,2020,,0.97,31
