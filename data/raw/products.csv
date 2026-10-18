@@ -1,0 +1,4 @@
+product_id,product_name,base_ideal_cycle_sec,scrap_cost_usd
+P100,Standard valve actuator,20.0,9.5
+P200,Precision valve actuator,28.0,15.0
+P300,Heavy duty valve actuator,36.0,22.0
