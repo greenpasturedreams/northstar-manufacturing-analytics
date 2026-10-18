@@ -1,0 +1,13 @@
+{
+  "raw_production_shifts": 6586,
+  "staged_shifts": 6516,
+  "clean_shifts": 6490,
+  "rejected_shifts": 26,
+  "raw_downtime_events": 11583,
+  "clean_events": 11540,
+  "events_excluded_with_invalid_parent": 43,
+  "temperature_missing": 90,
+  "vibration_missing": 45,
+  "checks_passed": true,
+  "plant_oee": 0.7849776115815426
+}
